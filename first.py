@@ -1,5 +1,1 @@
-dsaldak delattrda
-sd
-asdds
-ad 
-ad sorted
+print("Hello, World!")
